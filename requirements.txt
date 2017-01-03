@@ -1,0 +1,5 @@
+psycopg2==2.6.2
+python-dateutil
+requests
+SQLAlchemy==1.0.12
+git+ssh://git@github.com/MoveOnOrg/ngpvan_api.git

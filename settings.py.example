@@ -1,0 +1,22 @@
+# NGPVAN API credentials, keyed by state
+NGPVAN_API_KEYS = {
+    'AZ': '',
+}
+NGPVAN_API_APP = ' '
+NGPVAN_BASE_URL = 'https://api.securevan.com/v4/'
+
+# NGPVAN event types to check
+EVENT_TYPE_NAME_CAMPAIGN_MAP = {
+  'Example': 5
+}
+
+# PostgreSQL DB connection settings
+DB_USER = ''
+DB_HOST = ''
+DB_PORT = '5439'
+DB_PWD = ''
+DB_NAME = ''
+
+# PostgreSQL schemas
+DB_AK_SCHEMA = 'actionkit'
+DB_VAN_SCHEMA = 'ngpvan'
